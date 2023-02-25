@@ -35,6 +35,10 @@
     font-size: 24px;
   }
 
+  .hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../public/images/hero/hero-01-small.jpg");
+  }
+
 }
 
 @media screen and (max-width: 1000px) {
